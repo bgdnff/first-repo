@@ -1,4 +1,6 @@
-print("Hello!;")
+print("Hello!");
 print("come on everybody!!!;")
 print ("some more hellows!!;")
+print ("hello to others;")
 print("Hello my friend!;")
+print ("glad to see you;")
